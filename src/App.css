@@ -1,0 +1,11 @@
+body {
+  background-image: url(./Background/pexels-pixabay-76969.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.map {
+  width: 70%;
+  margin: auto;
+  margin-top: 11%;
+}
