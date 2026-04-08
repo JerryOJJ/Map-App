@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Map-App/static/css/main.11c62c02.css",
+    "main.js": "/Map-App/static/js/main.75a45bd8.js",
+    "static/media/pexels-pixabay-76969.jpg": "/Map-App/static/media/pexels-pixabay-76969.ca79f79ffba3ea24395d.jpg",
+    "index.html": "/Map-App/index.html",
+    "main.11c62c02.css.map": "/Map-App/static/css/main.11c62c02.css.map",
+    "main.75a45bd8.js.map": "/Map-App/static/js/main.75a45bd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c62c02.css",
+    "static/js/main.75a45bd8.js"
+  ]
+}
