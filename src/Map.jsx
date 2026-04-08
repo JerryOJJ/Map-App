@@ -3,8 +3,8 @@ import { SearchBox } from "@mapbox/search-js-react";
 import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 
-const accessToken =
-  "pk.eyJ1IjoiamVycnlvamoiLCJhIjoiY202dHhmcjBhMDh6azJqc2EwcGozcHV1eSJ9.U_LgDSC9Tf1cQumh1YHPIw";
+const accessToken = process.env.REACT_APP_MAPBOX_TOKEN;
+console.log(process.env.REACT_APP_MAPBOX_TOKEN)
 
 function Map() {
   const mapContainerRef = useRef();
